@@ -1,1 +1,1 @@
-print("Tassu is Skrull")
+print("Tassu is Skrull, full skrull")
